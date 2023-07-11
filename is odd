@@ -1,0 +1,13 @@
+import java.io.*;
+import java.util.*;
+
+class UserMainCode{
+  
+    
+      if(input1 % 2 == 0){
+            return 1;
+        }else{
+            return 2;
+        }
+	}
+}
